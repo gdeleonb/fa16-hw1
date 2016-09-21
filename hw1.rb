@@ -7,8 +7,7 @@ def sort_array_plus_one(a)
 end
 
 def combine_name(first_name, last_name)
-  # Q3 CODE HERE
-
+  return first_name + " " + last_name
 end
 
 def blockin_time(a)
