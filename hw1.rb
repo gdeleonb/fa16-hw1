@@ -3,7 +3,7 @@ def squared_sum(a, b)
 end
 
 def sort_array_plus_one(a)
-  return 
+  return a.sort.map { |a| a+1 }
 end
 
 def combine_name(first_name, last_name)
